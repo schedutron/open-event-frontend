@@ -1,11 +1,11 @@
 CACHE MANIFEST
-# version b0c0889689d05f06b3b1f7473bd77e43
+# version f8f8dd7f92820da4ef011c7b9d527aee
 
 CACHE:
 /404.html
 /assets/locales/en.json
-/assets/open-event-frontend-3e176ed0fcc29b3b5442767d6e5bec8c.js
-/assets/open-event-frontend-aa39709af74a52757db03e020a9b0286.css
+/assets/open-event-frontend-84bcee57431f910b054739ae7b0b0f2a.css
+/assets/open-event-frontend-b539d4551769fdc0072c95768e8f471b.js
 /assets/themes/default/assets/fonts/icons.eot
 /assets/themes/default/assets/fonts/icons.svg
 /assets/themes/default/assets/fonts/icons.ttf
@@ -13,11 +13,12 @@ CACHE:
 /assets/themes/default/assets/fonts/icons.woff2
 /assets/themes/default/assets/images/flags-9c74e172f87984c48ddf5c8108cabe67.png
 /assets/vendor-1362784dfebfd4411ef440b0f9df82e8.css
-/assets/vendor-b04302b41a0d4af16ab324ff55386d34.js
+/assets/vendor-1435507c78ae5465ca4e46d4e350a610.js
 /CNAME
 /crossdomain.xml
 /favicon.ico
 /images/landing-a1271b6ed642fa6959995fccc29c99ba.jpg
+/images/payment_logo-a872f5343025de7ddbfe14a6cecbfe5d.png
 /images/placeholders/avatar-7b3276be056559abf2d66938186e6f11.png
 /robots.txt
 /
