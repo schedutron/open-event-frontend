@@ -1,11 +1,11 @@
 CACHE MANIFEST
-# version 055721e0f5e2e3c16f5c5e717e522471
+# version bdfecb877d7b95eb71d0cf68b62e3e7b
 
 CACHE:
 /404.html
 /assets/locales/en.json
-/assets/open-event-frontend-315610c8c7573f71e79d5bf0effe098f.js
 /assets/open-event-frontend-434cd511a8e4e3a36b5b8e8fe1c1ba69.css
+/assets/open-event-frontend-45d64b1811dff528353e5c0665382138.js
 /assets/themes/default/assets/fonts/icons.eot
 /assets/themes/default/assets/fonts/icons.svg
 /assets/themes/default/assets/fonts/icons.ttf
