@@ -37,3 +37,4 @@ after_success:
   - bash <(curl -s https://codecov.io/bash)
  # - bash scripts/pr_deploy.sh
  # - bash kubernetes/travis/deploy.sh
+  - bash ./scripts/gh_deploy.sh
