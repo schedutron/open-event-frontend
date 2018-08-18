@@ -66,7 +66,7 @@ export default Route.extend({
       filter  : scheduledFilterOptions
     });
 
-    let scheduled = []; // to convert sessions data to fullcalendar's requirements
+    let scheduled = [];
     scheduledSessions.forEach(function(session) {
       let speakerNames = [];
       session.speakers.forEach(function(speaker) {
